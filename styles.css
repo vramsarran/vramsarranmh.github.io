@@ -1,0 +1,111 @@
+.header {
+  width: 100%;
+  padding:50px 20px;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+  margin: 0px 0px 0px 0px;
+}
+
+.logo{
+  width: 350px;
+  margin: 10px 0px 10px 0px;
+}
+
+.title{
+  margin: 10px 0px 10px 0px;
+  font-size: 60px;
+  position: center;
+  font-family: 'Playfair Display SC', serif;
+}
+
+h1 {
+  margin: 2rem 0em 1rem 2rem;
+  font-family: 'Lobster Two', cursive;
+  line-height: 1.5;
+  font-size: 45px;
+  color: black;
+}
+
+body {
+  margin: 1rem;
+  line-height: 1.5;
+  font-size: 25px;
+  font-family: 'DM Serif Display', serif;
+}
+
+
+
+
+.main{
+  width: 990px;
+  padding: 10px 10px 10px 10px;
+  background-color: lightgrey;
+  display: inline-block;
+  justify-content: center;
+  margin: 50px 0px 10px 480px;
+  background-image: url('https://pronghornpsych.com/wp-content/uploads/2020/06/mental-illness-and-brain-scaled-1200x675.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  color: white;
+}
+
+.container{
+  width: 300px;
+  height: 150px;
+  background-color: lightblue;
+  margin: 50px 0px 0px 100px;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Playfair Display SC', serif;
+    border: 2px double;
+}
+.GFG{
+    background-color: lightblue;
+  margin: 50px 0px 0px 100px;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Playfair Display SC', serif;
+}
+
+h2{
+  
+  font-family: 'DM Serif Display', serif;
+}
+
+.info{
+  font-size: 20px;
+  margin: 1px 0px 0px 0px;
+}
+
+.btn-bgstroke {
+  font-size: 30px;
+  display: inline-block;
+  position: relative;
+  left: 20px;
+  top: 10px;
+  border: 1px solid white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 300;
+}
+
+.btn-bgstroke:hover {
+  background-color: white;
+  color: #33cccc;
+}
+
+.desc{
+    margin: 10px 0px;
+}
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
